@@ -23,3 +23,6 @@ h5{
  height: 50px;
 }
 
+.carousel-control-prev-icon, .carousel-control-next-icon {
+   filter: invert(108%);
+ }
