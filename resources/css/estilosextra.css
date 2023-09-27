@@ -1,0 +1,25 @@
+/*pruebas que no funcionan*/
+.h5-carousel{
+   color: text-primary;
+   font-size: fs-1;
+}
+h5{
+    color: text-primary;
+    font-size: fs-1;
+ }
+ .navbar{
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0.1rem; 
+    padding-bottom: 0.1rem;
+ }
+
+.carousel-inner img {
+    width: 100%;
+    max-height: 460px;
+}
+
+.carousel-inner{
+ height: 50px;
+}
+
