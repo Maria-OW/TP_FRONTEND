@@ -92,7 +92,13 @@
 }
 
 /*en tickets*/
-.p-section { padding-top: 7rem; }
+.t-section { padding-top: 7rem; 
+}
+
+.coltsection{
+   padding-left: 3rem;
+   padding-right: 3rem;
+}
 
 /* form para comprar tickets */
 
