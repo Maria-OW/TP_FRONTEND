@@ -22,7 +22,6 @@
    }
  }
 
- .p-section { padding-top: 7rem; }
 
 /*título*/
 
@@ -91,3 +90,15 @@
 #main-footer .nav-link:hover{
    opacity: .7;
 }
+
+/*en tickets*/
+.p-section { padding-top: 7rem; }
+
+/* form para comprar tickets */
+
+#totalPago {
+   font-size: 1.4rem;
+   font-weight: 700;
+ }
+ 
+ 
